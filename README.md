@@ -18,19 +18,19 @@ This strips out all the View/Index stuff from the revel starter. This can serve 
 ```json
 [
     {
-        ID: 1,
-        Event: "Event 1",
-        UserId: 1
+        "ID": 1,
+        "Event": "Event 1",
+        "UserId": 1
     },
     {
-        ID: 2,
-        Event: "Event 2",
-        UserId: 2
+        "ID": 2,
+        "Event": "Event 2",
+        "UserId": 2
     },
     {
-        ID: 3,
-        Event: "Event 3",
-        UserId: 3
+        "ID": 3,
+        "Event": "Event 3",
+        "UserId": 3
     }
 ]
 ```
