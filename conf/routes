@@ -1,0 +1,4 @@
+module:testrunner
+
+GET     /orders                                 OrdersController.List
+GET     /orders/:orderID                        OrdersController.Show
