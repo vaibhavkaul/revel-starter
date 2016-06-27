@@ -1,4 +1,4 @@
-# Welcome to Revel
+# Welcome to Revel Starter
 
 ## Getting Started
 
