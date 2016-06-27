@@ -13,7 +13,7 @@ This strips out all the View/Index stuff from the revel starter. This can serve 
 
     revel run revel-starter
 
-### Go to http://localhost:9000/order and you'll see:
+### Go to http://localhost:9000/orders and you'll see:
 
 ```json
 [
